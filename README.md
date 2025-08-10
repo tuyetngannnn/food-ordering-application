@@ -9,7 +9,6 @@
 - 🛒 **Cart & Checkout** (Manage cart, apply discounts, and process payments).
 - 📍 **Location Tracking & Delivery** using OpenStreetMap & Project OSRM.
 - 📊 **Order History & Status Updates**.
-- 🌙 **Dark & Light Theme Support**.
 
 ## Tech Stack
 
@@ -65,8 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, reach out to:
-- **6 Bags**
-- Email: 6bagshospital@gmail.com
+- Email: tuyetngan3454@gmail.com
 
 ---
 
